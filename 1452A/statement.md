@@ -58,3 +58,10 @@ The explanations for the example test:
 - In the third test case, the robot can use the following sequence: ESENENE0ENESE.
 - In the fourth test case, the robot doesn't need to go anywhere at all.
 - In the fifth test case, the robot can use the following sequence: E0E.
+
+## Resources used
+
+- [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
+- [map function - Python](https://www.geeksforgeeks.org/python-map-function/)
+- [Compile C/C++ Linux](https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
+- 
