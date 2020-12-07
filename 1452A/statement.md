@@ -64,4 +64,5 @@ The explanations for the example test:
 - [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
 - [map function - Python](https://www.geeksforgeeks.org/python-map-function/)
 - [Compile C/C++ Linux](https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
-- [Hola mundo - Java](http://lineadecodigo.com/java/hola-mundo-en-java/)
+- [Hello World - Java](http://lineadecodigo.com/java/hola-mundo-en-java/)
+- [InputStreamReader and BufferedReader - Java](https://www.javatpoint.com/java-bufferedreader-class)
