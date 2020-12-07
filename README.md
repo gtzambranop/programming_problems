@@ -2,4 +2,4 @@
 
 | Platform  | ID  | Title | programming languages |
 | :---: | :---: | :---: | :---: |
-| Codeforces  | [1452A](1452A/statement.md) | Robot Program | [C](1452A/solution.c) - [Java](1452A/Solution.java) - [Python](1452A/solution.py) |
+| Codeforces  | [1452A](1452A/statement.md) | Robot Program | [C](https://github.com/gtzambranop/programming_problems/blob/develop/1452A/solution.c) - [Java](https://github.com/gtzambranop/programming_problems/blob/develop/1452A/Solution.java) - [Python](https://github.com/gtzambranop/programming_problems/blob/develop/1452A/solution.py) |
