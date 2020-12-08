@@ -62,7 +62,8 @@ The explanations for the example test:
 ## Resources used
 
 - [Taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)
-- [map function - Python](https://www.geeksforgeeks.org/python-map-function/)
+- [Map function - Python](https://www.geeksforgeeks.org/python-map-function/)
 - [Compile C/C++ Linux](https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
 - [Hello World - Java](http://lineadecodigo.com/java/hola-mundo-en-java/)
 - [InputStreamReader and BufferedReader - Java](https://www.javatpoint.com/java-bufferedreader-class)
+- [Fast I/O for Competitive Programming - C++](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
